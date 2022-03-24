@@ -1,1 +1,2 @@
-![alt text](giphy_game_of_life.gif0/![](giphy_game_of_life.gif)
+
+![alt text](https://github.com/Apollonium84/game-of-life/blob/main/giphy_game_of_life.gif)
